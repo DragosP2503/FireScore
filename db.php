@@ -1,3 +1,4 @@
+<?php>
 // servername => localhost
         // username => root
         // password => empty
@@ -9,3 +10,4 @@
             die("ERROR: Could not connect. "
                 . mysqli_connect_error());
         }
+<php>
